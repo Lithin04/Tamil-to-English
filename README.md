@@ -18,5 +18,5 @@ Turkey voice to emotion lables:-https://www.nature.com/articles/s41599-020-0499-
 TTS:- https://github.com/coqui-ai/TTS
 FastSpeech2:-https://github.com/roedoejet/FastSpeech2/tree/master
 LowResourceModel:- https://aidanpine.ca/static/cv/pdfs/acl2022.pdf
-murf.ai
+murf.ai, https://murf.ai/resources/text-to-speech-with-emotions/
   
